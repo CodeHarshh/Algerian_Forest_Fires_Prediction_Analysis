@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 
-application = Flask(__name__)
-app=application
+index = Flask(__name__)
+app=index
 
 
 
